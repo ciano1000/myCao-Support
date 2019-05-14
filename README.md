@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the support page for myCao
 
-You can use the [editor on GitHub](https://github.com/ciano1000/myCao-Support/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+myCao helps streamline the CAO application process for Leaving Certificate students by providing a Leaving Certificate points calculator, recommending course's based on the user's favorite school subjects and the ability to browse and view every single CAO course available. Also feature's the ability to save your favorite course's for later viewing and the ability to view every course's website.
+### Issues
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have an issue or query about the application please post them here and I will respond as quickly as possible.
 
-### Markdown
+# Upcoming Features
+I will also be using this site to share what features are being worked on.
+Currently the following are key items:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Web backend to make it easier to make database updates.
+- Points for multiple years
+- Employ collaborative filtering techniques to give more accurate recommendations.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ciano1000/myCao-Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
